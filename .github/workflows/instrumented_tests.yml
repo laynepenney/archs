@@ -2,9 +2,9 @@ name: Instrumented tests
 
 on:
   push:
-    branches: [ "base", "multimodule" ]
+    branches: [ "main" ]
   pull_request:
-    branches: [ "base", "multimodule" ]
+    branches: [ "main" ]
 
 jobs:
   androidTest:
