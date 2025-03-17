@@ -2,7 +2,7 @@
  * Copyright (c) Layne Penney 2025.
  */
 
-package pro.layne.sample.archs.feature.pattern.ui.pattern
+package pro.layne.sample.archs.feature.pattern.ui
 
 
 import kotlinx.coroutines.ExperimentalCoroutinesApi

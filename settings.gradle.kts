@@ -16,7 +16,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Multimodule template"
+rootProject.name = "Archs"
 
 include(":app")
 include(":core-data")
